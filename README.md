@@ -30,3 +30,4 @@ categorias (1) ──── (N) productos (1) ──── (N) ventas (N) ──
 
 - **modulo-3/**: `ventas_tech_db.sql` — creación de la base de datos, definición de tablas (DDL), restricciones de integridad (PK/FK/NOT NULL/UNIQUE) y carga inicial de datos (DML).
 - **modulo-4/**: `m4_consultas_negocio.sql` — consultas SQL de agregación (COUNT, SUM, AVG, MIN, MAX) y agrupamiento (GROUP BY) que responden preguntas de negocio sobre la base creada en el módulo 3.
+- **modulo-5/**: consultas con JOINs (INNER JOIN, LEFT JOIN, UNION ALL)
